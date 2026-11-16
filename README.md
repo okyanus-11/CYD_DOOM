@@ -160,4 +160,4 @@ re-flashes.
 
 ## Installation
 
-For prerequisites, environment setup, configuration, and run/build commands, see the [installation guide](INSTALLATION.md).
+Requires an ESP32-2432S028R CYD, PlatformIO and a legally obtained DOOM shareware 1.9 IWAD (not included). Clone the repository, run `pio run`, upload firmware to the board, then use the supplied WAD preparation tools and `tools/flashwad.py` to write your game data to the dedicated partition. See the [full installation and flashing guide](INSTALLATION.md).
