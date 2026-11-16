@@ -17,7 +17,7 @@ PlatformIO Core 6.2.0
 platform espressif32@6.9.0, board esp32dev, framework arduino
 CPU 240 MHz, flash 80 MHz / DIO, -O2
 RAM:   113,852 / 327,680 bytes (34.7%)
-Flash: 556,953 / 1,048,576 bytes (53.1%)
+Flash: 556,837 / 1,048,576 bytes (53.1%)
 ```
 
 Command: `python -m platformio run` — **PASS**. Hardware execution is
