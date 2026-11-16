@@ -157,3 +157,7 @@ re-flashes.
 - ESP32/CYD port: this repository
 - Engine and port code: GPL v2 — see `LICENSE` and the headers in `src/doom/`.
   Game data is not included.
+
+## Installation
+
+For prerequisites, environment setup, configuration, and run/build commands, see the [installation guide](INSTALLATION.md).
